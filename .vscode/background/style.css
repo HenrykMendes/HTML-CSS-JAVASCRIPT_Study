@@ -4,7 +4,10 @@ body{
     align-items: center;
     height: 100vh;
     margin: 0%;
-
+.item{
+    text-align: center;
+    margin: 10px;
+}
 }
 .titulo{
     display: flex;
