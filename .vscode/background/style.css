@@ -1,8 +1,20 @@
 body{
 
-    color: rgb(27, 27, 9);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0%;
 
 }
-h1{
-    
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+}
+.container img{
+     width: 200px;
+     height: auto;
+     margin: 10px;
 }
