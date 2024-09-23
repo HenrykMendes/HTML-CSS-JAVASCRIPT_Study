@@ -1,23 +1,23 @@
-body{
-
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0%;
-.item{
+body {
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 10%;
+}
+.item {
+  text-align: center;
+  margin: 10px;
+}
+.titulo {
     text-align: center;
-    margin: 10px;
+  display: flex;
 }
+.container {
+  display: flex;
 }
-.titulo{
-    display: flex;
+.container img {
     justify-content: center;
-}
-.container{
-    display: flex;
-}
-.container img{
-     width: 200px;
-     height: auto;
-     margin: 10px;
+  width: 200px;
+  height: auto;
+  margin: 0 50px;
 }
