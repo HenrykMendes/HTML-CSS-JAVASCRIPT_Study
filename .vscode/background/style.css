@@ -15,14 +15,19 @@ body {
   display: flex;
 }
 
-.itemImagem{
-    text-align: center;
-    margin: 10px;
-}
-.itemImagemJavaScript{
+.itemImagem {
   text-align: center;
   margin: 10px;
 }
+.itemImagemJavaScript {
+  text-align: center;
+  margin: 80px;
+  width: 300px;
+
+}
+
+
+
 .container img {
   justify-content: center;
   width: 200px;
@@ -30,5 +35,5 @@ body {
   margin: 0 50px;
 }
 .titulo {
-   text-align: center;
-  }
+  text-align: center;
+}
