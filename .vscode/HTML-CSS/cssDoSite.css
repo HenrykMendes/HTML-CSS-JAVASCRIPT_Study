@@ -1,0 +1,28 @@
+.Foto_Perfil {
+  display: flex;
+  justify-content: center; /*Alinhamento de elementos*/
+  overflow: hidden;
+  border-radius: 60%;
+  object-fit: cover;
+}
+
+.Input_Name {
+  display: flex;
+  justify-content: center;
+}
+
+.Titulo_02,
+.Para_caverinha {
+  text-align: center;/*Alinhamento de texto*/
+}
+
+.Redes_Socialistas {
+  display: flex; /*Ativa a flex-box*/
+  justify-content: center;
+  align-items: center; /*Alinha elas verticalmente*/
+}
+.Redes_Socialistas img {
+    max-width: 60px; 
+    height: auto; 
+    margin: 10px;
+}
